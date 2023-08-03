@@ -1,3 +1,2 @@
 Juan: 5.0
 Maria:4.5
-Hector:2.9
